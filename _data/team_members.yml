@@ -1,49 +1,54 @@
-- name: <a href="https://msneubauer.github.io">Mark S Neubauer</a>
+- name: <a href="https://msneubauer.github.io">Mark Neubauer</a>
   photo: Neubauer.jpg
-  info: Professor of Physics, NCSA Affiliated Faculty
+  info: Professor of Physics, University of Illinois
   email: msn@illinois.edu
-  number_educ: 2
-  education1: Ph.D. Physics from <a href="https://www.upenn.edu">University of Pennsylvania</a> with <a href="https://www.physics.upenn.edu/people/standing-faculty/eugene-beier">Eugene Beier</a>
-  education2: Postdoc at MIT and UC San Diego
-  education3:
-  education4:
+  number_addinfo: 1
+  addinfo1: Faculty Affiliate, NCSA
+  addinfo2:
+  addinfo3:
+  addinfo4:
+  addinfo5:
 
 - name: Dan Katz
   photo: unknown.png
-  info: 
-  email: 
-  number_educ: 1
-  education1: 
-  education2:
-  education3:
-  education4:
+  info:
+  email:
+  number_addinfo: 1
+  addinfo1:
+  addinfo2:
+  addinfo3:
+  addinfo4:
+  addinfo5:
 
 - name: Kyle Cranmer
   photo: unknown.png
-  info: 
-  email: 
-  number_educ: 1
-  education1: 
-  education2:
-  education3:
-  education4:
+  info:
+  email:
+  number_addinfo: 1
+  addinfo1:
+  addinfo2:
+  addinfo3:
+  addinfo4:
+  addinfo5:
 
 - name: Heiko Mueller
   photo: unknown.png
-  info: 
-  email: 
-  number_educ: 1
-  education1: 
-  education2:
-  education3:
-  education4:
+  info:
+  email:
+  number_addinfo: 0
+  addinfo1:
+  addinfo2:
+  addinfo3:
+  addinfo4:
+  addinfo5:
 
 - name: Michael Hildreth
   photo: unknown.png
-  info: 
-  email: 
-  number_educ: 1
-  education1: 
-  education2:
-  education3:
-  education4:
+  info:
+  email:
+  number_addinfo: 0
+  addinfo1:
+  addinfo2:
+  addinfo3:
+  addinfo4:
+  addinfo5:
