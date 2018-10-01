@@ -11,10 +11,10 @@
 
 - name: <a href="https://danielskatz.org">Daniel S. Katz</a>
   photo: Katz.jpg
-  info: Assistant Director for Scientific Software and Applications, NCSA, University of Illinois
+  info: Assistant Director for Scientific Software and Applications, <a href="http://ncsa.illinois.edu">NCSA</a>, University of Illinois
   email: dskatz@illinois.edu
   number_addinfo: 1
-  addinfo1: Research Associate Professor, CS & ECE & iSchool
+  addinfo1: Research Associate Professor, <a href="https://cs.illinois.edu">CS</a> & <a href="https://ece.illinois.edu">ECE</a> & <a href="https://ischool.illinois.edu">iSchool</a>
   addinfo2:
   addinfo3:
   addinfo4:
