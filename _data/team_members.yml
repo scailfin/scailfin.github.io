@@ -34,7 +34,7 @@
   
 
 - name: <a href="http://theoryandpractice.org">Kyle Cranmer</a>
-  photo: http://iris-hep.org/assets/images/team/Kyle-Cranmer.jpg
+  photo: "http://iris-hep.org/assets/images/team/Kyle-Cranmer.jpg"
   info: Professor of Physics at NYU
   email: kyle.cranmer@nyu.edu
   number_addinfo: 1
@@ -56,7 +56,7 @@
   addinfo5:
 
 - name: Irina Espejo
-  photo: http://iris-hep.org/assets/images/team/irinaespejo.jpeg
+  photo: "http://iris-hep.org/assets/images/team/irinaespejo.jpeg"
   info: Graduate Student, New York University, Center for Data Science
   email:
   number_addinfo: 0
