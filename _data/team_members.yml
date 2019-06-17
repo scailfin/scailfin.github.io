@@ -21,7 +21,7 @@
   addinfo5:
  
  - name: <a href="https://github.com/BenGalewsky">Ben Galwesky</a>
-  photo: Katz.jpg
+  photo: "http://iris-hep.org/assets/images/team/Ben-Galewsky.jpg"
   info:  <a href="http://ncsa.illinois.edu">NCSA</a>
   email: 
   number_addinfo: 1
@@ -30,8 +30,6 @@
   addinfo3:
   addinfo4:
   addinfo5:
-  
-  
 
 - name: <a href="http://theoryandpractice.org">Kyle Cranmer</a>
   photo: "http://iris-hep.org/assets/images/team/Kyle-Cranmer.jpg"
